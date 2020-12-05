@@ -1,7 +1,7 @@
 [package]
 name = "aoc-2020"
 version = "0.1.0"
-authors = ["Kushagra Gupta <kushgpt08@gmail.com>"]
+authors = ["Matias"]
 edition = "2018"
 license = "MIT"
 
